@@ -97,7 +97,7 @@ function aprendizado(){
       })
 
     const arrayMap = [1,6,8];
-
+      
     map.set('teste1', function(a,b){
         return a+b;
     });
